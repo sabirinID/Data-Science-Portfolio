@@ -14,8 +14,8 @@ visualizations.
 
 # Table of Contents
 * Data Analysis and Visualization
-  * In-Vehicle Coupon Recommendation Analysis and Visualization
+  * [In-Vehicle Coupon Recommendation Analysis and Visualization](https://github.com/sabirinID/Final-Project-Cisco)
     
 * Machine Learning
-  * Supervised Learning: Online Shoppers Purchasing Intention Analysis and Classification
-  * Unsupervised Learning: Airline Customer Value Analysis and Segmentation
+  * Supervised Learning: [Online Shoppers Purchasing Intention Analysis and Classification](https://github.com/sabirinID/Final-Project-Quattro)
+  * Unsupervised Learning: [Airline Customer Value Analysis and Segmentation](https://github.com/sabirinID/Airline-Customer-Segmentation)

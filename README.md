@@ -19,3 +19,6 @@ visualizations.
 * Machine Learning
   * Supervised Learning: [Online Shoppers Purchasing Intention Analysis and Classification](https://github.com/sabirinID/Final-Project-Quattro)
   * Unsupervised Learning: [Airline Customer Value Analysis and Segmentation](https://github.com/sabirinID/Airline-Customer-Segmentation)
+
+If you were interested in what you have seen and would like to discuss further about the portfolio,
+job opportunities, or collaboration, feel free to send me an [email](mailto:syahrildimassabirin@gmail.com).

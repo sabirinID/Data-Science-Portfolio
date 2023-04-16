@@ -1,2 +1,1 @@
-# Portfolios
-A collection of my work
+# Port·fo·li·os: A collection of my work

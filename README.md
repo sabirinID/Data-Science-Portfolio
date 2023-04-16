@@ -10,3 +10,13 @@ This repository contains a collection of my data science projects, which serve a
 skills and experience in this field. These projects showcase my abilities in gathering, processing, and
 analyzing large datasets, as well as my expertise in producing insightful visualizations.
 ```
+
+# Table of Contents
+* Data Analysis and Visualization
+  * Python
+    In-Vehicle Coupon Recommendation Analysis and Visualization
+* Machine Learning
+  * Supervised
+    Online Shoppers Purchasing Intention Analysis and Classification
+  * Unsupervised
+    Airline Customer Value Analysis and Segmentation

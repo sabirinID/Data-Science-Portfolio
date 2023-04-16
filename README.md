@@ -13,10 +13,8 @@ analyzing large datasets, as well as my expertise in producing insightful visual
 
 # Table of Contents
 * Data Analysis and Visualization
-  * Python
-    In-Vehicle Coupon Recommendation Analysis and Visualization
+  * In-Vehicle Coupon Recommendation Analysis and Visualization
+    
 * Machine Learning
-  * Supervised
-    Online Shoppers Purchasing Intention Analysis and Classification
-  * Unsupervised
-    Airline Customer Value Analysis and Segmentation
+  * Supervised Learning: Online Shoppers Purchasing Intention Analysis and Classification
+  * Unsupervised Learning: Airline Customer Value Analysis and Segmentation

@@ -13,12 +13,20 @@ visualizations.
 ```
 
 # Table of Contents
-## Data Analysis and Visualization
+## SQL
+  * [Analyzing E-Commerce Business Performance with SQL](https://github.com/sabirinID/)
+
+## Python
+### Data Analysis and Visualization
   * [In-Vehicle Coupon Recommendation Analysis and Visualization](https://github.com/sabirinID/Final-Project-Cisco)
+  * [Investigate Hotel Business](https://github.com/sabirinID/)
     
-## Machine Learning
+### Machine Learning
   * Supervised Learning: [Online Shoppers Purchasing Intention Analysis and Classification](https://github.com/sabirinID/Final-Project-Quattro)
   * Unsupervised Learning: [Airline Customer Value Analysis and Segmentation](https://github.com/sabirinID/Airline-Customer-Segmentation)
+  * [Predicting Customer Personality Types](https://github.com/sabirinID/)
+  * [Predicting Customer Ad Clicks](https://github.com/sabirinID/)
+  * [Predicting Employee Attrition](https://github.com/sabirinID/)
 
 If you were interested in what you have seen and would like to discuss further about the portfolio,
 job opportunities, or collaboration, feel free to send me an [email](mailto:syahrildimassabirin@gmail.com).

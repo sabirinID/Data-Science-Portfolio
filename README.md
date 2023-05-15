@@ -28,6 +28,10 @@ visualizations.
   * [Predicting Customer Ad Clicks](https://github.com/sabirinID/)
   * [Predicting Employee Attrition](https://github.com/sabirinID/)
 
+## Data Dashboard
+  * [Target Customer Demographic Dashboard](https://github.com/sabirinID/)
+  * [Sales Report Dashboard](https://github.com/sabirinID/)
+
 If you were interested in what you have seen and would like to discuss further about the portfolio,
 job opportunities, or collaboration, feel free to send me an [email](mailto:syahrildimassabirin@gmail.com).
 

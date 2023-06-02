@@ -19,7 +19,7 @@ visualizations.
 ## Python
 ### Data Analysis and Visualization
   * [In-Vehicle Coupon Recommendation Analysis and Visualization](https://github.com/sabirinID/Final-Project-Cisco)
-  * [Investigating Hotel Business Performance with Data Visualization](https://github.com/sabirinID/Investigating-Hotel-Business-Performance)
+  * [Investigating Hotel Business Performance using Data Visualization](https://github.com/sabirinID/Investigating-Hotel-Business-Performance)
     
 ### Machine Learning
   * Supervised Learning: [Online Shoppers Purchasing Intention Analysis and Classification](https://github.com/sabirinID/Final-Project-Quattro)

@@ -26,7 +26,7 @@ visualizations.
   * Unsupervised Learning: [Airline Customer Value Analysis and Segmentation](https://github.com/sabirinID/Airline-Customer-Segmentation)
   * [Telecom Churn Analysis and Prediction](https://github.com/sabirinID/Telecom-Churn-Analysis)
   * [Predicting Customer Personality to Boost Campaigns with Machine Learning](https://github.com/sabirinID/Predicting-Customer-Personality)
-  * [Classifying Customer Clicked Ads using Machine Learning](https://github.com/sabirinID/)
+  * [Predicting Customer Clicked Ads Classification with Machine Learning](https://github.com/sabirinID/Predicting-Customer-Clicked-Ads-Classification)
   * [Predicting Employee Attrition to Improve Retention with Machine Learning](https://github.com/sabirinID/)
 
 ## Data Dashboard
